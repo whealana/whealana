@@ -6,3 +6,4 @@ Upon request, I can grant access to the repositories for:
 - StockX WebScraping Tool
 - StockTrader Application
 - Calculator Application
+- Minesweeper Game
